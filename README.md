@@ -1,1 +1,1 @@
-# Our-Medical
+# OurMedical
